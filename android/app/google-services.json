@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49146290576",
+    "project_id": "cd-demo-app-flutter",
+    "storage_bucket": "cd-demo-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49146290576:android:a1e5d8b152358db6e81315",
+        "android_client_info": {
+          "package_name": "com.seshat.collegedoors.collgedoors_demo_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49146290576-la2v14vdeh7fulm7rckvm2g7c4on9gvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZlAD_W4ZkCAZJ2c8Cgaz7caSsSFm9i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49146290576-la2v14vdeh7fulm7rckvm2g7c4on9gvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
